@@ -12,11 +12,18 @@ code
 
 ### Firmware
 ```
-moar code
+sudo git clone https://github.com/DexterInd/GrovePi
+cd GrovePi/Firmware
+sudo chmod +x firmware_update.sh
+sudo ./firmware_update.sh
+
 ```
 ### Drivers
 ```
-cooooooode
+sudo git clone https://github.com/DexterInd/GrovePi
+cd GrovePi/Script
+sudo chmod +x install.sh
+sudo ./install.sh
 ```
 ### Connectivity
 ```
