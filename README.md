@@ -1,4 +1,4 @@
-# Tha projecta
+# Tha projectaah
 
 A combination of stuff, both hw and sw, resulting in pure innovation. 
 
